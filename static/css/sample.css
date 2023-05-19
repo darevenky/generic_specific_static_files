@@ -1,0 +1,21 @@
+h1{
+    margin-top: 100px;
+    display: inline;
+    background-color: black;
+    color: white;
+}
+
+h1:hover{
+    color: orange;
+}
+
+p{
+    margin-top: 100px;
+    background-color: black;
+    color: blue;
+    text-align: justify;
+}
+
+p:hover{
+    color: white;
+}
