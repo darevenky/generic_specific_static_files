@@ -1,0 +1,10 @@
+h1{
+    display: inline-block;
+    background-color: cyan;
+    color: red;
+}
+
+p{
+    background: radial-gradient(ellipse,orange,cyan,greenyellow);
+    color: black;
+}
